@@ -4,6 +4,9 @@
   "description": "component-bootstrap",
   "version": "0.0.1",
   "dependencies": {
+    "bscomp/mixins":"*",
+    "bscomp/utilities":"*",
+    "bscomp/forms":"*"
   },
   "styles": ["index.less"]
 }
